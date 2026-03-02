@@ -4,7 +4,7 @@
 -- ================================
 
 -- Public config
-local DISCORD_LINK = "https://discord.gg/M3fzBAyBGY" -- where players get key
+local DISCORD_LINK = "https://discord.gg/BhXZzkPGYk" -- where players get key
 
 
 local _kA = {119, 105, 110}   -- 'w','i','n'
